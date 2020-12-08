@@ -1,3 +1,3 @@
 ---
-redirect_to: https://arifordsham.com
+redirect_to: https://charityextra.com/home/campaigns
 ---
