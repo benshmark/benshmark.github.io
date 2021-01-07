@@ -1,3 +1,3 @@
 ---
-redirect_to: https://charityextra.com/home/campaigns
+redirect_to: https://charidy.com/rabbifalk
 ---
