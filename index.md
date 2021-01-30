@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/boneiolam
+redirect_to: https://www.charityextra.com/gk
 ---
