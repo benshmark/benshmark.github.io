@@ -1,2 +1,2 @@
 ---
-+ redirect_to: www.google.com
++ redirect_to: https://www.charidy.com/ylz
