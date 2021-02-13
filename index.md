@@ -1,3 +1,3 @@
 ---
-redirect_to: https://inteleweb.com/campaignsindex/
+redirect_to: https://www.charityextra.com/tya
 ---
