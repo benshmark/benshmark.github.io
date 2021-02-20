@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/tya
+redirect_to: https://www.charityextra.com/haskel
 ---
