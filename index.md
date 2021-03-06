@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/nesivos
+redirect_to: https://www.charityextra.com/sy
 ---
