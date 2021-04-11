@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/sy
+redirect_to: https://www.charityextra.com/yty
 ---
