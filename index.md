@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/kzs
+redirect_to: https://letsgiveto.com/bcr
 ---
