@@ -1,3 +1,3 @@
 ---
-redirect_to: www.google.com
+redirect_to: https://www.google.com
 ---
