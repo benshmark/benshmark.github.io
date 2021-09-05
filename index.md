@@ -1,3 +1,3 @@
 ---
-redirect_to: https://charityextra.com/gc
+redirect_to: www.google.com
 ---
