@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/kerenhashviis/35046
+redirect_to: https://www.charityextra.com/https://www.charityextra.com/chaverimgateshead/40780
 ---
