@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.charityextra.com/bh
+redirect_to: https://www.charityextra.com/hatzola
 ---
